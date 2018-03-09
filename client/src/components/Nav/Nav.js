@@ -24,14 +24,7 @@ class Nav extends Component {
                             <li><a href="/card">Virtual Buisness Card</a></li>
                             <li><a href="/resume">Resume</a></li>
                         </ul>
-                        <form className="navbar-form navbar-left">
-                            <div className="form-group">
-                                <input type="text" class="form-control" placeholder="Search" />
-                            </div>
-                            <button type="submit" className="btn btn-default">Submit</button>
-                        </form>
                         <ul className="nav navbar-nav navbar-right">
-                            <li><a href="#">Link</a></li>
                             <li className="dropdown">
                                 <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect <span className="caret"></span></a>
                                 <ul class="dropdown-menu">
