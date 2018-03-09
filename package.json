@@ -20,11 +20,8 @@
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lyonx/portfolio.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/lyonx/portfolio.git",
+  "author": "chris <chrisb000@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lyonx/portfolio/issues"
