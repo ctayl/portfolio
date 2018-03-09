@@ -10,7 +10,7 @@ class Card extends Component {
                     <div className="container-fluid">
                         <div className="row">
                         <div className="col-sm-1" />
-                            <div className="col-sm-8">
+                            <div className="col-md-8">
                                 <h1 id="profile-header">Christopher Berger</h1>
                                 <h4 id="profile-subheader">Full Stack Web Developer</h4>
                                 <div id="profile-info">
@@ -19,10 +19,11 @@ class Card extends Component {
                                 <div>chrisb000@gmail.com</div><br/>
                                 </div>
                             </div>
-                            <div className="col-sm-3">
+                            <div className="col-md-3">
                                 <br/>
                                 <a href="https://www.linkedin.com/in/chrisberger61/">linkedin.com/in/chrisberger61</a>
                                 <br/>
+                                <a href="https://github.com/lyonx">github.com/lyonx</a>
                                 <a href="https://github.com/lyonx">github.com/lyonx</a>
                             </div>
                         </div>

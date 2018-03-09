@@ -6,9 +6,17 @@ class Resume extends Component {
         return (
             <div className="container">
                 <div className="row">
-                    <div className="col-sm-12">
+                    <div className="col-sm-8">
                         <h1>Christopher Berger</h1>
                         <h3>Full Stack Developer</h3>
+                    </div>
+                    <div className="col-sm-4">
+                        <br/>
+                        <h5>San Diego, California</h5>
+                        <h5>(858)344-5385</h5>
+                        <h5>chrisb000@gmail.com</h5>
+                    </div>
+                    <div className="col-sm-12">
                         <hr/>
                     </div>
                     <div className="col-sm-8">
@@ -23,6 +31,10 @@ class Resume extends Component {
                         <h5>Independent Legal Contractor, San Diego — Process Server</h5>
                         <h6>August 2014 - PRESENT</h6>
                         <p>Process serving for family law attorneys involves verbal contracts, networking, record keeping, and investigation. I ensure that one’s legal right to receive documents in person is met.</p>
+                        <br/>
+                        <h5>Vons, San Diego — Cashier</h5>
+                        <h6>September 2012 - Current</h6>
+                        <p>As my first job, Vons offered me a reliable job within biking distance of home. This job taught me about customer service, communication, and ethics in a real world environment. Having recently found a direction, I am eager to stretch my legs and begin my career.</p>
                         <hr/>
                         <h4>Education</h4>
                         <h5>UCSD Coding Bootcamp, UCSD Extension - Full Stack Developer</h5>
@@ -37,12 +49,6 @@ class Resume extends Component {
                         <h6>June 2012</h6>
                     </div>
                     <div className="col-sm-4">
-                        <br/>
-                        <h5>San Diego, California</h5>
-                        <h5>(858)344-5385</h5>
-                        <h5>chrisb000@gmail.com</h5>
-                        <br/>
-                        <br/>
                         <h4>Skills</h4>
                         <h5>Programming Languages:</h5>
                         <ul>   
