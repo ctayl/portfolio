@@ -2,3 +2,23 @@
     max-width: 100%;
     width: 90%;
 }
+
+.panel-default {
+    height: 600px;
+    background: rgba(104, 104, 104, 0.185);
+    color: rgb(66, 73, 0);
+}
+
+.thumbnail {
+    background: rgba(255, 255, 255, 0);
+    border: 0px;
+}
+
+.thumb {
+    max-height: 370px;
+    border-radius: 5px;
+}
+
+.caption {
+    min-height: 188px;
+}
