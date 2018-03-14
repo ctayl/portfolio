@@ -5,16 +5,34 @@
         "data": {
             "url": "http://bumble-bot.herokuapp.com/",
             "repo": "https://github.com/shama009/BumbleBot",
-            "img": ""
+            "img": "assets/images/bumble.png"
         }
     },
     {
         "title": "Concentration",
-        "info": "A single player card game using API calls to emulate card logic",
+        "info": "A single player card game using API calls to emulate card logic.",
         "data": {
             "url": "https://concentration10.herokuapp.com/",
             "repo": "https://github.com/lyonx/Concentration",
-            "img": ""
+            "img": "assets/images/concentration.png"
+        }
+    },
+    {
+        "title": "Lazy-Food",
+        "info": "Application that allows users to find, manage, and store ingredients and recipes.",
+        "data": {
+            "url": "https://lazy-food.herokuapp.com/",
+            "repo": "https://github.com/ClarkPhan/food-recipe-app",
+            "img": "assets/images/lazy-food.png"
+        }
+    },
+    {
+        "title": "MyPlace",
+        "info": "Personal Homepage. Provides users with location-based news, local events, current weather and traffic updates.",
+        "data": {
+            "url": "https://randolfresurreccion.github.io/MyPlace/",
+            "repo": "https://github.com/randolfResurreccion/MyPlace",
+            "img": "assets/images/myplace.png"
         }
     }
 ]

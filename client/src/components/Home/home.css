@@ -1,0 +1,12 @@
+.container {
+    background: rgba(234, 243, 217, 0.897);
+    color: rgb(66, 73, 0);
+    font-family: 'Roboto', sans-serif;
+    margin-top: -20px;
+    padding-top: 20px;
+}
+
+#landing {
+    min-height: 100%;
+}
+

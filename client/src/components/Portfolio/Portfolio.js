@@ -11,7 +11,7 @@ class Portfolio extends Component {
                     <div className="panel panel-default">
                         <div className="panel-body">
                             <div class="thumbnail">
-                                <img className="thumb" src="https://via.placeholder.com/350x350" alt="..." />
+                                <img className="thumb" src={item.data.img} alt="..." />
                                 <div className="caption">
                                     <h3>{item.title}</h3>
                                     <p>{item.info}</p>
