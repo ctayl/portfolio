@@ -1,0 +1,20 @@
+[
+    {
+        "title": "BumbleBot",
+        "info": "Twitter Bot that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, retweeting, liking, following, unfollowing, or direct messaging other accounts.",
+        "data": {
+            "url": "http://bumble-bot.herokuapp.com/",
+            "repo": "https://github.com/shama009/BumbleBot",
+            "img": ""
+        }
+    },
+    {
+        "title": "Concentration",
+        "info": "A single player card game using API calls to emulate card logic",
+        "data": {
+            "url": "https://concentration10.herokuapp.com/",
+            "repo": "https://github.com/lyonx/Concentration",
+            "img": ""
+        }
+    }
+]
