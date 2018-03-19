@@ -5,7 +5,7 @@
         "data": {
             "url": "http://bumble-bot.herokuapp.com/",
             "repo": "https://github.com/shama009/BumbleBot",
-            "img": "assets/images/bumble.png"
+            "img": "images/bumble.png"
         }
     },
     {
@@ -14,7 +14,7 @@
         "data": {
             "url": "https://concentration10.herokuapp.com/",
             "repo": "https://github.com/lyonx/Concentration",
-            "img": "assets/images/concentration.png"
+            "img": "images/concentration.png"
         }
     },
     {
@@ -23,7 +23,7 @@
         "data": {
             "url": "https://lazy-food.herokuapp.com/",
             "repo": "https://github.com/ClarkPhan/food-recipe-app",
-            "img": "assets/images/lazy-food.png"
+            "img": "images/lazy-food.png"
         }
     },
     {
@@ -32,7 +32,7 @@
         "data": {
             "url": "https://randolfresurreccion.github.io/MyPlace/",
             "repo": "https://github.com/randolfResurreccion/MyPlace",
-            "img": "assets/images/myplace.png"
+            "img": "images/myplace.png"
         }
     }
 ]
